@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite3
+.env
+.git
+.gitignore
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
